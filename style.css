@@ -59,9 +59,8 @@ body {
 }
 
 .coming-soon {
-    position: absolute;
-    margin-top: 0;
-    margin-left: 450px;
+    margin-top: 20px;
+    margin-right: 1050px;
     font-size: 2.5rem;
     font-family: 'Rubik Gemstones', cursive;
 }
