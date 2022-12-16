@@ -16,7 +16,7 @@ body {
 .wrapper {
     border: 1px solid transparent;
     padding: 30px;
-    margin-right: auto;
+    position: absolute;
     border-radius: 20px;
     background-color: rgba(117, 116, 116, 0.276);
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
@@ -59,8 +59,8 @@ body {
 }
 
 .coming-soon {
-    margin-top: 20px;
-    margin-right: 1050px;
+    margin-top: 570px;
+    position: absolute;
     font-size: 2.5rem;
     font-family: 'Rubik Gemstones', cursive;
 }
